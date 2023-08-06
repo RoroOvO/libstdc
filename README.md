@@ -11,14 +11,14 @@ libstdc++.so  some library for glibc
 
 ```code
 
-rm  -rf /lib64/libstdc++.so.6
+rm -rf /lib64/libstdc++.so.6
 ln -s /lib64/libstdc++.so.6.28 libstdc++.so.6
 ```
 
 * centos 7
 
 ```code
-rm  -rf /lib64/libstdc++.so.6
+rm -rf /lib64/libstdc++.so.6
 ln -s /lib64/libstdc++.so.6.26 libstdc++.so.6
 ```
 
@@ -40,14 +40,14 @@ libstdc++.so  some library for glibc
 
 ```code
 
-rm  -rf /lib64/libstdc++.so.6
+rm -rf /lib64/libstdc++.so.6
 ln -s /lib64/libstdc++.so.6.28 libstdc++.so.6
 ```
 
 * centos 7
 
 ```code
-rm  -rf /lib64/libstdc++.so.6
+rm -rf /lib64/libstdc++.so.6
 ln -s /lib64/libstdc++.so.6.26 libstdc++.so.6
 ```
 
